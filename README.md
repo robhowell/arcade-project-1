@@ -7,3 +7,8 @@
 - MAME
 
 ### Design ideas
+
+### Stuff to do
+- [ ] Buy a monitor
+- [ ] Buy the computer
+- [ ] Buy the controls
