@@ -1,12 +1,10 @@
 # Arcade Project 1
 
-![Mame](/mame-logo.png?raw=true)
-
 ### Controls
 - 2 player
 
 ### Platforms supported
-- MAME
+- <img src="mame-logo.png?raw=true" width="100" alt="Mame" />
 
 ### Design ideas
 - [Love Hultén - hipster boutique arcade machines](http://www.lovehulten.com/)
