@@ -1,5 +1,7 @@
 # Arcade Project 1
 
+![Mame](/mame-logo.png?raw=true)
+
 ### Controls
 - 2 player
 
