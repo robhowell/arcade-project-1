@@ -17,8 +17,29 @@
 - [Arcade World UK: Joystick and Button Kits](https://www.arcadeworlduk.com/categories/Joystick-And-Button-Kits/)
 
 ### Stuff to do
+
+Design Phase
+- [ ] Choose main computer (assumption this is a Raspberry Pi variant)
+- [ ] Choose control sticks (for two players)
+- [ ] Choose control buttons (for two players)
+- [ ] Choose any additional buttons, e.g. insert coin (specifics TBC by Jonny)
+- [ ] Choose screen
+- [ ] Specify any additional boards / connectors to link the system up
+- [ ] Sketch out some designs which accomodate the above components
+- [ ] Pick materials for the case (interior and exterior)
+- [ ] Refine the chosen design to produce a confirmed parts and build list
+
+Sourcing Phase
 - [ ] Buy a monitor
 - [ ] Buy the computer
 - [ ] Buy the controls
-- [ ] Design the case
-- [ ] Build the case
+- [ ] Buy materials for the case
+- [ ] Buy SD card for main system
+
+Build Phase
+- [ ] Cut and joint case materials
+- [ ] Varnish / treat case materials
+- [ ] Assemble case sections
+- [ ] Test all components before installation
+- [ ] Mount / install computer, screen and controls
+
