@@ -24,6 +24,7 @@ Design Phase
 - [ ] Choose control buttons (for two players)
 - [ ] Choose any additional buttons, e.g. insert coin (specifics TBC by Jonny)
 - [ ] Choose screen
+- [ ] Choose speakers
 - [ ] Specify any additional boards / connectors to link the system up
 - [ ] Sketch out some designs which accomodate the above components
 - [ ] Pick materials for the case (interior and exterior)
@@ -33,6 +34,7 @@ Sourcing Phase
 - [ ] Buy a monitor
 - [ ] Buy the computer
 - [ ] Buy the controls
+- [ ] Buy speakers
 - [ ] Buy materials for the case
 - [ ] Buy SD card for main system
 
@@ -41,5 +43,5 @@ Build Phase
 - [ ] Varnish / treat case materials
 - [ ] Assemble case sections
 - [ ] Test all components before installation
-- [ ] Mount / install computer, screen and controls
+- [ ] Mount / install computer, screen, speakers and controls
 
